@@ -19,7 +19,7 @@ Boilerplate repository for RFC3161 TSA Git repository commit timestamping.
     
 3. Create a test commit and check the [`timestamp`](./timestamp) directory.
 
-## Configuration
+## Settings
 
 You can choose which timestamping authority servers to use by editing [`./timestamp/servers.list`](./timestamp/servers.list) file.
 
