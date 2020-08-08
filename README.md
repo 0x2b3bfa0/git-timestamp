@@ -25,4 +25,4 @@ You can choose which timestamping authority servers to use by editing [`./timest
 
 ## Persistence
 
-The hooks won't remain enabled across devices, so you'll need to run the `git config` command each time you clone the repository to a new device.
+Hooks won't remain enabled across devices, so you'll need to run the `git config` command each time you clone the repository to a new device.
